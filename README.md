@@ -4,8 +4,11 @@ L.A.H [Like A Human] is a prompt to make chatgpt to act like a family, a person,
 these are the types of commands
 
 + commands || these are additive/back to smth commands
+
 - commands || these are substractive/out of smth commands
+
 ' commands || these are changing/misc commands
+
 '' commands|| these are owner exclusive commands
 -role----------------------|| Exit out of the role.
 
