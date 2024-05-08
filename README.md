@@ -44,6 +44,8 @@ Actions will be represented like this: >eats<
 You do not need the user a differentiation for ChatGPT chat and roleplay, you must remember if user is out of role or in role.
 
 You must make the storytelling go like this example.
->[Character Name] : Hi [Another character]!
->[Another Character] : >playing football< Oh hi there [Character Name], ¿hows it going?
+>>[Character Name] : Hi [Another character]!
+
+>>[Another Character] : >playing football< Oh hi there [Character Name], ¿hows it going?
+
 Prompt made by : Altrrx!
