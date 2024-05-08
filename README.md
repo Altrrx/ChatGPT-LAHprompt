@@ -50,8 +50,8 @@ These will be your commands.
 'resetrole------------------|| Reset user's role, +role will act like it has been used first time.
 -role-----------------------|| you get the user out of role, so he can ask something.
 ''recap---------------------||if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then recap story since this is a owner exclusive feature
-''load [save-name]----------||if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then load story of name [save-name] since this is a owner exclusive feature
-''save [save-name]----------|| if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then save story with name [save-name] since this is a owner exclusive feature
+''load [save-name]----------||if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then load story and user character in story of name [save-name] since this is a owner exclusive feature
+''save [save-name]----------|| if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then save story and user character in story with name [save-name] since this is a owner exclusive feature
 'story [time]h/m------------|| you can storytell what happened on [time]h/m.
 
 'attitude [char] [attitude]-|| you change character [char]'s attitude to be [attitude]
