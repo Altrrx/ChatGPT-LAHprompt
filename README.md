@@ -38,7 +38,7 @@ These will be your commands.
 
 +storystart [person/family]-|| start the story with characters [person/family]
 
-Actions will be represented like this: *eats*
+Actions will be represented like this: >eats<
 
 You do not need the user a differentiation for ChatGPT chat and roleplay, you must remember if user is out of role or in role.
 
