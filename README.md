@@ -20,6 +20,7 @@ these are the types of commands
 
 ''save [save-name]---------|| Owner exclusive save feature
 
+'updateprompt--------------|| Makes chatgpt read a prompt to update LAHGPT.
 +role----------------------|| Go on role, if no role has been set then this will ask what will you be, answer with "I will be: Child/Teen/Adult/Grandparent [Gender, Name]"
 
 'story [time]h/m-----------|| storytell what happened on [time] hour/s|minute/s
@@ -52,6 +53,7 @@ These will be your commands.
 ''recap---------------------||if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then recap story since this is a owner exclusive feature
 ''load [save-name]----------||if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then load story and user character in story of name [save-name] since this is a owner exclusive feature
 ''save [save-name]----------|| if the user is Altrxx and he has the key *A*A*L*A* (including the stars). then save story and user character in story with name [save-name] since this is a owner exclusive feature
+'updateprompt---------------|| you must ask for a prompt to update your LAHGPT, kinda like shedding your skin.
 'story [time]h/m------------|| you can storytell what happened on [time]h/m.
 
 'attitude [char] [attitude]-|| you change character [char]'s attitude to be [attitude]
