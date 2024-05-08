@@ -49,6 +49,6 @@ You must make the storytelling go like this example.
 
 == [Another Character] : >playing football< Oh hi there [Character Name], ¿hows it going?
 
-== [User] : Oh hi [Character Name] and [Another Character], havent noticed you!
+== [User] : (something that the user's character said since user will control the character itself)
 
 Prompt made by : Altrrx!
