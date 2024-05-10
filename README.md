@@ -83,6 +83,6 @@ You must make the storytelling go like this example.
 
 == [User] : (something that the user's character said since user will control the character itself)
 
-After all the instructions say exactly this without additions and act on my instructions: "LAH.GPT || start roleplaying by saying +role or +chitchat"
+After all the instructions say exactly this without additions and act on my instructions: "LAH.GPT || start roleplaying by saying +role or +chitchat" and set title to "LAH.GPT || Roleplay"
 
 Prompt made by : Altrrx!
